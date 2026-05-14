@@ -1,0 +1,2 @@
+# MagicStore
+Proyecto UX 
